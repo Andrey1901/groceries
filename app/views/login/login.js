@@ -19,5 +19,4 @@ exports.register = function(){
     // alert("Registering")
     var topmost = frameModule.topmost();
     topmost.navigate("views/register/register")
-    
 }
