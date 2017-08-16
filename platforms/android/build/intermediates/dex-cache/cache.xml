@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/kos/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/kos/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_cd5d0b5db24fe6349ba369990404038399071323.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kos/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/kos/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-26.0.0-alpha1_975662b63e827f09fbfed58927da5991f816d9ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kos/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/kos/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-26.0.0-alpha1_256f998f366dff1dc4befc6009d68fdb295be609.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kos/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/kos/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-26.0.0-alpha1_adc1ac8d69f47f3ff7ea57570519f91221e0a988.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kos/android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/kos/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-26.0.0-alpha1_d751170009b9221d0d810652e9df39ae76ea4894.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kos/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/kos/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-26.0.0-alpha1_bb655e55fddbfff6b438865d36095607c7d5e6de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kos/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/kos/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_fd37e4510a2968e9f2f6aced1c5b8994ad3c4760.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kos/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ada15dd7aad50793dcd67b281a8eb06e80007500">
+        <dex dex="/home/kos/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_931bfa282fcf1ae5e3ffa6292a2ddab2747a7377.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kos/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/kos/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-26.0.0-alpha1_c0a438f05097ca7a7f44e2528995439970e24afc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kos/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/kos/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-26.0.0-alpha1_802090b4f9884adf5fd904e2f02d8a9aa9471388.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kos/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/kos/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-26.0.0-alpha1_8a4b82170239a0a5b82a2c663894dbdc8982b714.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kos/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/Groceries/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="30b97ea5d6274e02330dcc69943087778363c172">
+        <dex dex="/home/kos/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/Groceries-runtime-unspecified_647994d56650470a9a7b535a720cb4846763710d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kos/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/kos/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-26.0.0-alpha1_19fa9f516736b83291df0efe96738ddcd2af4071.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kos/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/kos/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-26.0.0-alpha1_5fb7a9c7cf92fb600d3a47159e60272fd0d10925.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kos/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/kos/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-transition-26.0.0-alpha1_17ac1f37bffc2b9e73ef6f44cf772d1b5c0a363e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kos/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/Groceries/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="/home/kos/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_619eea94acf7598f74a47c41f2e9da215e371836.jar" />
+    </item>
+
+</items>
