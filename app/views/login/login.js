@@ -1,3 +1,4 @@
+var UserViewModel = require("../../shared/view-models/user-view-model");
 var frameModule = require("ui/frame");
 var observableModule = require("data/observable");
 var page;
