@@ -11,6 +11,7 @@
 
         <Button text="Sign in" tap="signIn"/>
         <Button text="Sign up for Groceries" class="link" tap="register"/>
+        
 
     </StackLayout>
 </Page>

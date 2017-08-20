@@ -14,3 +14,7 @@ TextField {
 Image {
     margin: 10;
 }
+ListView {
+    margin: 5;
+    opacity: 0;
+}
